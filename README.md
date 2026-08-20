@@ -18,7 +18,7 @@ leetcode-solutions/
 ├── Sliding_Window/
 ├── Binary_Search/
 ├── Linked_List/
-├── Stack_Queue/
+├── Stack_&_Queue/
 ├── Trees/
 ├── Graphs/
 ├── Math/
