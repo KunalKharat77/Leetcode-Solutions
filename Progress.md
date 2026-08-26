@@ -4,10 +4,10 @@
 
 | Difficulty | Solved |
 |------------|--------:|
-| Easy | 0 |
-| Medium | 0 |
-| Hard | 0 |
-| **Total** | **0** |
+| Easy | 78 |
+| Medium | 52 |
+| Hard | 2 |
+| **Total** | **132** |
 
 ---
 
@@ -15,24 +15,23 @@
 
 | Topic | Solved |
 |--------|--------:|
-| Arrays | 0 |
-| Strings | 0 |
-| Hashing | 0 |
-| Two Pointers | 0 |
-| Sliding Window | 0 |
-| Binary Search | 0 |
+| Arrays | 17 |
+| Strings | 13 |
+| Hashing | 3 |
+| Two Pointers | 3 |
+| Sliding Window | 11 |
+| Binary Search | 19 |
 | Bit Manipulation | 0 |
-| Math | 0 |
+| Math | 9 |
 | Recursion | 0 |
 | Backtracking | 0 |
-| Linked List | 0 |
-| Stack | 0 |
-| Queue | 0 |
-| Heap / Priority Queue | 0 |
-| Trees | 0 |
+| Linked List | 17 |
+| Stack & Queue| 13 |
+| Heap / Priority Queue | 5 |
+| Trees | 21 |
 | Graphs | 0 |
 | Dynamic Programming | 0 |
-| Greedy | 0 |
+| Greedy | 1 |
 | Matrix | 0 |
 
 ---
@@ -41,7 +40,7 @@
 
 - [x] 50 Problems
 - [x] 100 Problems
-- [ ] 150 Problems
+- [x] 150 Problems
 - [ ] 200 Problems
 - [ ] 300 Problems
 - [ ] 500 Problems

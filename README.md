@@ -32,10 +32,10 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 |------------|--------:|
-| Easy | 0 |
-| Medium | 0 |
-| Hard | 0 |
-| **Total** | **0** |
+| Easy | 78 |
+| Medium | 52 |
+| Hard | 2 |
+| **Total** | **132** |
 
 > Update these numbers regularly.
 
